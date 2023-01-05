@@ -1,0 +1,56 @@
+*{
+padding: 0;
+
+
+}
+.header{
+    background-color: hsla(37, 93%, 54%, 0.514);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+   
+}
+li{
+    list-style: none;
+    margin-left: 35px ;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+ul li {
+    
+font-size: 35px ;
+padding: 5px ;
+
+
+}
+.btn{
+tab-size: 25px ;
+background-color: coral;
+padding: 5px ;
+border: none;
+border-radius: 5px ;
+
+height: 100px ;
+
+}
+samp{
+      
+    color: coral;
+}
+/* img &write */
+.d1{
+display:flex;
+
+
+
+}
+
+
+
+
+
+
+
